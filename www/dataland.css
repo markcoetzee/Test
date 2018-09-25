@@ -1,0 +1,30 @@
+h2 {
+	color:#333333;
+}
+body {
+	background-color: #FFFFFF;
+}
+
+
+/*HEADINGS:*/
+.page_heading{
+	color:#FFFFFF;
+	text-align: center;
+	font-family: museo-sans;
+	font-weight:900;
+	font-size:4em;
+}
+.area_heading{
+	color:balck;
+	text-align: center;
+	font-family: museo-sans;
+	font-weight:900;
+}
+
+
+.first_row {
+		background-color:#122D31;
+}
+
+
+
